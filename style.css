@@ -1,0 +1,21 @@
+div p{
+  /* border: solid red 1px; */
+  
+    color:pink;
+
+}
+
+p {
+  color: blue;
+}
+
+.first-p-tag {
+  color: red;
+}
+
+/* #second-p-tag {
+  color: green;
+} */
+.second-p-tag-class {
+  color: yellow;
+}
